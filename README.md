@@ -9,6 +9,13 @@
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
 
+### :fire: TECHNICAL SKILLS:
+- Frontend:- JavaScript, React, Redux, Vue js, Next js
+- Backend:- Node JS, Java
+- DevOps:- Git, Docker, AWS
+- Database:- SQL, MongoDB
+- Others:- SCSS, CSS, HTML, Vant UI, material UI, Ant UI, Chart JS
+
 ### :woman_technologist: Experience - 1 year 10 months
 **Software Development Engineer (SDE) - Espressif systems | June 2022 - April 2024 ( present )**
 - Having hands-on development experience on technologies **Hybrid applications, Web applications and
