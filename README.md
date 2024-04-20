@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Frontend Engineer</strong> at [Espressif Systems](https://www.espressif.com/).
+- 💼 I’m currently working as a <strong>Software Develoment Engineer</strong> at [Espressif Systems](https://www.espressif.com/) from last **1 year and 10 months**.
 - 📋 I've previously worked as a Frontend Developer Internship at [Vcbay](https://www.linkedin.com/company/vcbay/) and at [Sayuri Desing Studio]()
 - 🎒 I've done almost 3 internships in frontend primarily.
 - 🧭 I love exploring and working both in frontend and backend.
