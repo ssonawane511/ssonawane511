@@ -16,20 +16,17 @@
 - Database:- SQL, MongoDB
 - Others:- SCSS, CSS, HTML, Vant UI, material UI, Ant UI, Chart JS
 
-### :woman_technologist: Experience - 1 year 10 months
+### :woman_technologist: Experience - 2 years
 **Software Development Engineer (SDE) - Espressif systems | June 2022 - April 2024 ( present )**
-- Having hands-on development experience on technologies **Hybrid applications, Web applications and
-single page applications.**
-- **NOVA HOME** : Worked on IOT web application developed in Vue js framework to develop common user
-interface ( UI ) layer for Android and IOS applications and utilised **VueX library for state management**,
-SCSS framework for styling. Enhance UI/UX and **App performance by 40%** ⇡
-- I spearheaded the development of cutting-edge white-label IoT phone app solutions, thereby enabling
-**Espressif to tap into a new revenue stream** 📊.
-- Developed interactive UIs with React and Vue.js, creating 30+ reusable and modular components, leading
-to a 𝟐𝟓% 𝐢𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭 𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 efficiency.
-- Participated in code reviews to ensure code quality, consistency, and adherence to best practices
-- Was actively in collaboration with solving, troubleshooting issues in the Phones app, Web apps and
-developing test framework.
+- Hands-on development experience of Implementation of a **pixel-perfect UI/UX** using ReactJS and Javascript, JQuery, HTML5, CSS3, tailwind.
+- Utilised Redux, Context, Hooks for state management and reusability in React.js web applications
+- Proficient in Bootstrap for layout and Sass framework for styling.
+- Developed interactive features, 30+ reusable and modular components library leading to an increase in development efficiency by 25%.
+- Day to day task : UI integration with REST-APIs contracts for data fetching in json / XML.
+- Collaborate across engineering for product management, browser-based debugging, improving usability standards and ensure cross-browser compatibility.
+- Strengthened understanding of scalability, Postman tool, web application architecture, unit testing frameworks jest.
+- Strength : Building full stack web apps and designing the user experience across platforms
+
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
